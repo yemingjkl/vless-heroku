@@ -9,7 +9,7 @@
 
 ## Fork this project, replace Dimitri2020007 in readme.md with your own user name before deploying, it is very important, remember!!!!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Dimitri2020007/vless-heroku.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/yemingjkl/vless-heroku.git)
 
 # VLESS Client Setup
 
